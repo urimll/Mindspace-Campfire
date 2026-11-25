@@ -1,8 +1,14 @@
-# Fire3D-Simulation
+# 🔥 Mindspace Campfire
 
-**화재 상황 대피 시뮬레이션** — 우리 학교 건물을 그대로 3D 모델링해서, 불이 났을 때 대피하는 상황을 체험하는 Unity XR 시뮬레이션이에요.
+**MARS 팀 Mindspace (2025 동양미래 EXPO 출품작)의 Unity 3D 캠프파이어 불멍 게임**
 
-A Unity (URP, XR) fire evacuation simulation built on a 3D model of our school building.
+모닥불 앞에서 숨쉬기 가이드를 따라 하며 마음을 쉬게 하는 VR 콘텐츠예요.
+저는 이 프로젝트에서 **Unity 기반 3D 불멍 게임과 맵**을 만들었어요.
+
+- 🌬 **숨쉬기 가이드:** 들숨·날숨 타이머와 꽃잎 애니메이션 (`BreatheController`)
+- 🪵 **모닥불:** 장작 연료에 따라 불 크기·빛·소리가 바뀌어요 (`CampfireController`, `LogFuel`, `FireZone`)
+- 🌸 **계절 배경:** 봄·가을·겨울 숲과 하늘을 Addressables로 바꿔요 (`SeasonAddressableLoader`, `SeasonSkyApplier`)
+- 🎮 **XR UI:** 컨트롤러 그리드 내비게이션, 햅틱, 입력 모듈 전환 (`GridNavFlexible`, `HapticsUtility`, `InputModuleSwitcher`)
 
 This repository contains the project's own **Assets** content: scripts, the `Fire.unity` scene,
 its lighting data, season prefabs and UI sprites.
