@@ -1,6 +1,8 @@
 # Fire3D-Simulation
 
-A Unity (URP, XR) campfire scene with breathing interaction and seasonal backgrounds.
+**화재 상황 대피 시뮬레이션** — 우리 학교 건물을 그대로 3D 모델링해서, 불이 났을 때 대피하는 상황을 체험하는 Unity XR 시뮬레이션이에요.
+
+A Unity (URP, XR) fire evacuation simulation built on a 3D model of our school building.
 
 This repository contains the project's own **Assets** content: scripts, the `Fire.unity` scene,
 its lighting data, season prefabs and UI sprites.
