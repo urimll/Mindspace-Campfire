@@ -1,0 +1,24 @@
+# Third-party Unity Asset Store packages (not redistributable - import them yourself)
+/Adventure Nature Vol.4/
+/Adventure Nature Vol.4.meta
+/AllSkyFree/
+/AllSkyFree.meta
+/Environment Sounds/
+/Environment Sounds.meta
+/Firewood_Pack/
+/Firewood_Pack.meta
+/Free Fire VFX URP/
+/Free Fire VFX URP.meta
+/Ian's Fire Pack Universal/
+/Ian's Fire Pack Universal.meta
+/Starfield Skybox/
+/Starfield Skybox.meta
+/TriForge Assets/
+/TriForge Assets.meta
+/YughuesFreeGroundMaterials/
+/YughuesFreeGroundMaterials.meta
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.tmp
