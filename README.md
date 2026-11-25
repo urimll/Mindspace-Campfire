@@ -1,4 +1,4 @@
-# FireGame
+# Fire3D-Simulation
 
 A Unity (URP, XR) campfire scene with breathing interaction and seasonal backgrounds.
 
